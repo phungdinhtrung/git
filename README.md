@@ -17,5 +17,10 @@
 ## 3    Remote repository
 ### 3.1 Clone: clone remote to local
 ### 3.2 Git remote -v: view info remote repository
+### 3.3 Git pull <remote-name> <local-name>
+	Sử dụng để cập nhật các thay đổi trên Remote repo xuống Local repo.
+### 3.4 Git push <remote-name> <local-name>
+	Sử dụng để cập nhật các thay đổi dưới Local repo lên Remote repo.
+
 
 
