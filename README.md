@@ -15,4 +15,6 @@
 ### 2.7	Git log: view list commit
 ### 2.8	Git restore –staged <file>: remove file in staged area
 ## 3    Remote repository
+### 3.1 Clone: clone remote to local
+### 3.2 Git remote -v: view info remote repository
 
