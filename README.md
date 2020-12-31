@@ -16,7 +16,7 @@
         - Add multi file: git add . | git add *
 ### 2.5	Git checkout: restore file
         Sử dụng để khôi phục file về trạng thái trước khi chỉnh sửa.
-        Lưu ý: file khởi restore phải không đang trong vùng Staged (trước đó chưa git add). Nếu đã <git add> vào vùng staged area thì phải remove ra khỏi vùng bằng lệnh git restore --staged <file>.
+        Lưu ý: file restore phải không nằm trong vùng Staged (trước đó chưa git add). Nếu đã <git add> vào vùng staged area thì phải remove ra khỏi vùng bằng lệnh git restore --staged <file>.
 ### 2.6	Git commit: add file from staged area to local repo
 ### 2.7	Git commit –amend: merge with commit before
 ### 2.8	Git log: view list commit
