@@ -1,5 +1,6 @@
 # Tutorial Git
 ## 1	Download and installl Git: https://git-scm.com
+--------------------------------------------------------------
 ## 2	Local Repository
 ### 2.1	Git init
         Khởi tạo Local repository
@@ -14,13 +15,21 @@
 ### 2.6	Git commit –amend: merge with commit before
 ### 2.7	Git log: view list commit
 ### 2.8	Git restore –staged <file>: remove file in staged area
+--------------------------------------------------------------
 ## 3    Remote repository
 ### 3.1 Clone: clone remote to local
-### 3.2 Git remote -v: view info remote repository
+### 3.2 Git remote -v: view info remote repository (remote-name, remote link)
 ### 3.3 Git pull <remote-name> <local-name>
 	Sử dụng để cập nhật các thay đổi trên Remote repo xuống Local repo.
 ### 3.4 Git push <remote-name> <local-name>
 	Sử dụng để cập nhật các thay đổi dưới Local repo lên Remote repo.
+### 3.5 Git branch: view list branch name (*: active branch).
+	Sử dụng để liệt kê danh sách branch.
+### 3.6 Git brach <name-branch>: create new branch.
+### 3.7 
+
+
+
 
 
 
