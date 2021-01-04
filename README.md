@@ -24,19 +24,19 @@
 ### 3.10 Git branch
 #### 3.10.1 Git branch: view list branch name (*: active branch).
 	Sử dụng để liệt kê danh sách branch.
-#### 3.10.2 Git brach <name-branch>: create new branch.
-#### 3.10.3 Git branch -m <name-branch>: rename branch.
-#### 3.10.4 Git checkout <name-branch>: switch branch.
+#### 3.10.2 Git brach name-branch: create new branch.
+#### 3.10.3 Git branch -m name-branch: rename branch.
+#### 3.10.4 Git checkout name-branch: switch branch.
 	Sử dụng để chuyển đổi qua lại đến nhánh làm việc khác.
-#### 3.10.5 Git merge <name-branch-merge>
+#### 3.10.5 Git merge name-branch-merge
 	Sử dụng để gộp hai nhánh lại với nhau.
 #### 3.10.6 Git branch --merged: view merged branchs with current branch (* branch)
 	Sử dụng để xem nhánh nào đã gộp với nhánh hiện tại (nhánh có dấu *).
 #### 3.10.7 Git branch --no-merged: view no merged branchs with current branch (* branch)
 	Sử dụng để xem nhánh nào chưa gộp với nhánh hiện tại (nhánh có dấu *).
-#### 3.10.8 Git branch -d <name-branch>: delete merged a branch
+#### 3.10.8 Git branch -d name-branch: delete merged a branch
 	Xóa một nhánh đã được gộp.
-#### 3.10.9 Git branch -D <name-branch>: delete no-merged a branch
+#### 3.10.9 Git branch -D name-branch: delete no-merged a branch
 	Xóa nhánh chưa gộp
 
 --------------------------------------------------------------
