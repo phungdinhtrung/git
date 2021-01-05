@@ -20,7 +20,7 @@
 ### 2.6	Git commit: add file from staged area to local repo
 ### 2.7	Git commit –amend: merge with commit before
 ### 2.8	Git log: view list commit
-### 2.9	Git restore –staged <file>: remove file in staged area
+### 2.9	Git restore –staged file-name: remove file in staged area
 ### 3.10 Git branch
 #### 3.10.1 Git branch: view list branch name (*: active branch).
 	Sử dụng để liệt kê danh sách branch.
